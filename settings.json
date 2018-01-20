@@ -4,7 +4,9 @@
     "editor.dragAndDrop": false,
     "editor.emptySelectionClipboard": false,
     "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
     "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
-    "explorer.openEditors.visible": 0
+    "explorer.openEditors.visible": 0,
+    "html.format.indentInnerHtml": true
 }
