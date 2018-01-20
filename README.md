@@ -1,7 +1,7 @@
 # vscode
 My VS Code user settings
 
-
+```javascript
 {
     "files.autoSave": "onFocusChange",
     "workbench.colorTheme": "Visual Studio Dark",
@@ -12,3 +12,4 @@ My VS Code user settings
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0
 }
+```
