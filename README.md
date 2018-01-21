@@ -6,3 +6,5 @@ My VS Code extensions
 * [C#](https://github.com/OmniSharp/omnisharp-vscode)
 * [Debugger](https://github.com/Microsoft/vscode-chrome-debug)
 * [Path Intellisence](https://github.com/ChristianKohler/PathIntellisense)
+* [CSS Formater](https://github.com/aeschli/vscode-css-formatter)
+* [HTML Snippets](https://github.com/abusaidm/html-snippets)
