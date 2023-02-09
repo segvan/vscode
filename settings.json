@@ -1,12 +1,29 @@
 {
-    "files.autoSave": "onFocusChange",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "powershell.powerShellDefaultVersion": "Windows PowerShell",
+    
+    "files.autoSave": "onWindowChange",
+    "files.autoSaveDelay": 10000,
+    
+    "workbench.editor.untitled.hint": "hidden",
     "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true
+    
     "editor.dragAndDrop": false,
+    "editor.suggestSelection": "first",
     "editor.emptySelectionClipboard": false,
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
-    "workbench.startupEditor": "none",
     "editor.minimap.enabled": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    
     "explorer.openEditors.visible": 0,
-    "html.format.indentInnerHtml": true
+    
+    "html.format.indentInnerHtml": true,
+    
+    "javascript.updateImportsOnFileMove.enabled": "always"
+    
+    "git.enableSmartCommit": true
 }
